@@ -70,7 +70,7 @@ header nav ul:first-of-type li:first-of-type{
     
 }
 header nav ul:first-of-type li:nth-of-type(2){
-    background-image:url("../images/logo.png");
+    background-image:url("../../images/logo.png");
     width:210px;
     height:50px;
     background-size:100% 100%;
@@ -276,7 +276,7 @@ header nav ul:last-of-type li:last-of-type:hover{
     height:425px;
     float:right;
     overflow:hidden;
-    background-image:url("../images/32020_12_13_20_31.jpg");
+    background-image:url("../../images/32020_12_13_20_31.jpg");
     background-size:100% 100%;
 }
 .main-articles article p:first-of-type{
@@ -316,32 +316,32 @@ float:right;
 .main-articles article:nth-of-type(2){
     float:right;
     margin-right:10px;
-    background-image:url("../images/zsc2020_12_17_22_14.jpg");
+    background-image:url("../../images/zsc2020_12_17_22_14.jpg");
     background-size:100% 100%;
 }
 .main-articles article:nth-of-type(3){
     float:right;
     margin:5px 10px 0 0;
-    background-image:url("../images/32020_12_13_20_31.jpg");
+    background-image:url("../../images/32020_12_13_20_31.jpg");
     background-size:100% 100%;
 }
 .main-articles article:nth-of-type(4){
     float:right;
     margin-top:10px;
-    background-image:url("../images/lefa2020_12_17_21_57.jpg");
+    background-image:url("../../images/lefa2020_12_17_21_57.jpg");
     background-size:100% 100%;
 }
 .main-articles article:nth-of-type(5){
     float:right;
     margin:10px 7px 0 0;
-    background-image:url("../images/hazem.jpg");
+    background-image:url("../../images/hazem.jpg");
     background-size:100% 100%;
     
 }
 .main-articles article:nth-of-type(6){
     float:right;
     margin:10px 7px 0 0;
-    background-image:url("../images/182940-1-2020_2_6_22_52.jpg");
+    background-image:url("../../images/182940-1-2020_2_6_22_52.jpg");
     background-size:100% 100%;
 }
 .sidebar1{
@@ -470,7 +470,7 @@ float:right;
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/untitled2020_11_23_17_21.jpg");
+    background-image:url("../../images/untitled2020_11_23_17_21.jpg");
     background-size:100% 100%;
     
 }
@@ -478,77 +478,77 @@ float:right;
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/ei8rpt8xgaaypkw2020_9_27_22_23.jpg");
+    background-image:url("../../images/ei8rpt8xgaaypkw2020_9_27_22_23.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(3) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/ekum5uexcaah8is2020_10_18_17_59.jpg");
+    background-image:url("../../images/ekum5uexcaah8is2020_10_18_17_59.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(4) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/envg33-xeamu8bp2020_11_26_10_44.jpg");
+    background-image:url("../../images/envg33-xeamu8bp2020_11_26_10_44.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(5) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/119182123-334888627723988-7076303209502930986-n2020_9_11_21_23.jpg");
+    background-image:url("../../images/119182123-334888627723988-7076303209502930986-n2020_9_11_21_23.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(6) .article-img{
     width:300px;
     height:200px;
     margin:0;
-   background-image:url("../images/131897270-3759411890784920-1878316423706518648-o2020_12_17_19_39.jpg");
+   background-image:url("../../images/131897270-3759411890784920-1878316423706518648-o2020_12_17_19_39.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(7) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/182940-1-2020_2_6_22_52.jpg");
+    background-image:url("../../images/182940-1-2020_2_6_22_52.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(8) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/201812311503542662019_2_21_15_41.jpg");
+    background-image:url("../../images/201812311503542662019_2_21_15_41.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(9) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/32020_12_13_20_31.jpg");
+    background-image:url("../../images/32020_12_13_20_31.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(10) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/66692017_8_2_17_43.jpg");
+    background-image:url("../../images/66692017_8_2_17_43.jpg");
     background-size:100% 100%;
 }
 .news-articles article:nth-of-type(11) .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/7672020_12_14_15_25.jpg");
+    background-image:url("../../images/7672020_12_14_15_25.jpg");
     background-size:100% 100%;
 }
 .news-articles article:last-of-type .article-img{
     width:300px;
     height:200px;
     margin:0;
-    background-image:url("../images/ahly2020_12_17_22_54.jpg");
+    background-image:url("../../images/ahly2020_12_17_22_54.jpg");
     background-size:100% 100%;
 }
 .news-articles article .article-img p{
@@ -596,7 +596,7 @@ float:right;
     width:730px;
     height:90px;
     margin-top:15px;
-    background-image:url("../images/5807666768496676807.png");
+    background-image:url("../../images/5807666768496676807.png");
     background-size:100% 100%;
 }
 footer{
